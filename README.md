@@ -10,3 +10,7 @@
 
 #Just run ipynb normally
 #For OMP files, change thread_num to change the number of threads 
+
+#To run 
+#g++ -fopenmp file_name.cpp -o file
+#./file
